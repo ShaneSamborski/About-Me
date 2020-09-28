@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+#container {
+    color: black;
+    background-color:#ffeee0;
+    width: 50%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px 20px 20px 20px;
+    font-family:'Asap', sans-serif;
+    /* margin, padding, and content creates a box around html elements */
+}
+
+#content {
+    text-align: left;
+}
+a {
+    color:#fd7a0e
+}
+.githublink {
+    color: #fd7a0e;
+    border-color: #fd7a0e;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Asap', sans-serif;
+}
+
+#flowerpic {
+    width: 65%;
+    height: auto;
+    border-radius: 60%;
+}
+
+.left-col {
+    float: left;
+    width: 50%;
+}
+
+.right-col {
+    float: right;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.clearfix {
+    clear: both;
+}
